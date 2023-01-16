@@ -14,3 +14,13 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 .hidden {display: none;}
+.icons{text-align: center;}
+.icons h2{ font-size: 2em; margin: 10em}
+.icons div{
+    width: 45%;
+    display: inline-block;
+
+}
+.icons div img{
+    width: 100%;
+}
